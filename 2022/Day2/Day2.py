@@ -3,6 +3,7 @@
 f = open('2022/Day2/Day2.txt', 'r')
 raw = f.read().split('\n')
 listOfMatches = list(map(lambda x: x.split(' '), raw))
+
 pairs1 = {
   'X':{
     'A': 4, 'B': 1, 'C': 7,
