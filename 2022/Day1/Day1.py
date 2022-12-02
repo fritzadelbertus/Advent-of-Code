@@ -1,6 +1,6 @@
 # Advent of Code Day 1: Calorie Counting
 
-f = open('Day 1/Day1.txt', 'r')
+f = open('2022/Day1/Day1.txt', 'r')
 raw = f.read().split('\n\n')
 listOfCalories = list(map(lambda x: x.split('\n'), raw))
 listOfTotalCalories = []
