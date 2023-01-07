@@ -1,6 +1,6 @@
 # Advent of Code Day 1: Report Repair
 
-f = open('2020/Day1/Day1.txt', 'r')
+f = open('2020/Day01/Day1.txt', 'r')
 
 input = f.read().split('\n')
 listOfNumbers = list(map(lambda x: int(x),input))

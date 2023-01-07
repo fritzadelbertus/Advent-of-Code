@@ -1,7 +1,7 @@
 # Advent of Code Day 2: Password Philosophy
 
 import re
-f = open('2020/Day2/Day2.txt', 'r')
+f = open('2020/Day02/Day2.txt', 'r')
 
 input = f.read().split('\n')
 

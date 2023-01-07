@@ -1,7 +1,7 @@
 # Advent of Code Day 3: Toboggan Trajectory
 
 import re
-f = open('2020/Day3/Day3.txt', 'r')
+f = open('2020/Day03/Day3.txt', 'r')
 
 input = f.read().split('\n')
 
