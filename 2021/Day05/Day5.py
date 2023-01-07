@@ -1,6 +1,6 @@
 # Advent of Code Day 5: Hydrothermal Venture
 
-f = open('2021/Day5/Day5.txt', 'r')
+f = open('2021/Day05/Day5.txt', 'r')
 
 input = f.read().split('\n')
 listOfClouds = list(map(lambda x: x.split(' -> '),input))

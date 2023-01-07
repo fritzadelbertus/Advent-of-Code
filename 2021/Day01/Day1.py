@@ -1,6 +1,6 @@
 # Advent of Code Day 1: Sonar Sweep
 
-f = open('2021/Day1/Day1.txt', 'r')
+f = open('2021/Day01/Day1.txt', 'r')
 raw = f.read().split('\n')
 listOfDepth = list(map(lambda x: int(x), raw))
 

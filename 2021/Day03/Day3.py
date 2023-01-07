@@ -1,6 +1,6 @@
 # Advent of Code Day 3: Binary Diagnostic
 
-f = open('2021/Day3/Day3.txt', 'r')
+f = open('2021/Day03/Day3.txt', 'r')
 listOfBinary = f.read().split('\n')
 
 # Part 1

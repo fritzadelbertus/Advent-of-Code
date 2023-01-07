@@ -34,7 +34,7 @@ class Folder():
 
 root = Folder('/', None)
 
-f = open('2022/Day7/Day7.txt', 'r')
+f = open('2022/Day07/Day7.txt', 'r')
 data = f.read().split('\n')
 
 pointer = root

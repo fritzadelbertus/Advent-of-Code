@@ -2,7 +2,7 @@
 
 # Useful Resource: https://dev.to/jules_lewis/advent-of-code-2015-day-7-35mp
 
-f = open('2015/Day7/Day7.txt', 'r')
+f = open('2015/Day07/Day7.txt', 'r')
 raw = f.read().split('\n')
 
 listOfOperation = list(map(lambda x: x.split(' -> '), raw))

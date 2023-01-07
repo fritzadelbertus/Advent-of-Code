@@ -1,6 +1,6 @@
 # Advent of Code Day 2: I Was Told There Would Be No Math
 
-f = open('2015/Day2/Day2.txt', 'r')
+f = open('2015/Day02/Day2.txt', 'r')
 raw = f.read().split('\n')
 listOfMeasurements = list(map(lambda x: x.split('x'), raw))
 

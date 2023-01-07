@@ -1,7 +1,7 @@
 # Advent of Code Day 3: Rucksack Reorganization
 
 from functools import reduce
-f = open('2022/Day3/Day3.txt', 'r')
+f = open('2022/Day03/Day3.txt', 'r')
 data = f.read().split('\n')
 values = '0abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
 

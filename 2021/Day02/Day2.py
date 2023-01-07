@@ -1,6 +1,6 @@
 # Advent of Code Day 2: Dive!
 
-f = open('2021/Day2/Day2.txt', 'r')
+f = open('2021/Day02/Day2.txt', 'r')
 raw = f.read().split('\n')
 listOfMoves = list(map(lambda x: x.split(' '), raw))
 

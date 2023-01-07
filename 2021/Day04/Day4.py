@@ -1,7 +1,7 @@
 # Advent of Code Day 4: Giant Squid
 
-f1 = open('2021/Day4/Day4-boards.txt', 'r')
-f2 = open('2021/Day4/Day4-numbers.txt', 'r')
+f1 = open('2021/Day04/Day4-boards.txt', 'r')
+f2 = open('2021/Day04/Day4-numbers.txt', 'r')
 boardsString = f1.read().split('\n\n')
 listOfNumbers = f2.read().split(',')
 

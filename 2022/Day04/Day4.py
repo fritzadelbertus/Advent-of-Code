@@ -1,7 +1,7 @@
 # Advent of Code Day 4: Camp Cleanup
 
 import re
-f = open('2022/Day4/Day4.txt', 'r')
+f = open('2022/Day04/Day4.txt', 'r')
 data = f.read().split('\n')
 pairs = []
 for i in data:

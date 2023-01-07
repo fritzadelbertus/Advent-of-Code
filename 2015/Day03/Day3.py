@@ -1,6 +1,6 @@
 # Advent of Code Day 3: Perfectly Spherical Houses in a Vacuum
 
-f = open('2015/Day3/Day3.txt', 'r')
+f = open('2015/Day03/Day3.txt', 'r')
 data = f.read()
 
 moves = {

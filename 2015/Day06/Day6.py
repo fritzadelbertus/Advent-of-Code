@@ -1,7 +1,7 @@
 # Advent of Code Day 6: Probably a Fire Hazard
 
 import re
-f = open('2015/Day6/Day6.txt', 'r')
+f = open('2015/Day06/Day6.txt', 'r')
 raw = f.read().split('\n')
 listOfInstructions = []
 for i in raw:

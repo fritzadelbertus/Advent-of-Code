@@ -1,6 +1,6 @@
 # Advent of Code Day 5: Doesn't He Have Intern-Elves For This?
 
-f = open('2015/Day5/Day5.txt', 'r')
+f = open('2015/Day05/Day5.txt', 'r')
 listOfStrings = f.read().split('\n')
 
 # Part 1

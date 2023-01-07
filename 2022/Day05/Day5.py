@@ -1,6 +1,6 @@
 # Advent of Code Day 5: Supply Stacks
 
-f = open('2022/Day5/Day5.txt', 'r')
+f = open('2022/Day05/Day5.txt', 'r')
 data = f.read().split('\n')
 listOfInstruction = list(map(lambda x: x.split(' '), data))
 

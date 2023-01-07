@@ -1,6 +1,6 @@
 # Advent of Code Day 6: Lanternfish
 
-f = open('2021/Day6/Day6.txt', 'r')
+f = open('2021/Day06/Day6.txt', 'r')
 
 input = f.read().split(',')
 listOfFish = list(map(lambda x: int(x),input))

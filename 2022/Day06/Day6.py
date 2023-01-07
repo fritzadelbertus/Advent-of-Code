@@ -1,6 +1,6 @@
 # Advent of Code Day 6: Tuning Trouble
 
-f = open('2022/Day6/Day6.txt', 'r')
+f = open('2022/Day06/Day6.txt', 'r')
 data = f.read()
 
 def findMarker(datastream, mark):

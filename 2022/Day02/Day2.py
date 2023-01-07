@@ -1,6 +1,6 @@
 # Advent of Code Day 2: Rock Paper Scissors
 
-f = open('2022/Day2/Day2.txt', 'r')
+f = open('2022/Day02/Day2.txt', 'r')
 raw = f.read().split('\n')
 listOfMatches = list(map(lambda x: x.split(' '), raw))
 

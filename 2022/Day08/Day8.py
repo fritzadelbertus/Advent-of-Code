@@ -88,7 +88,7 @@ class Forest():
     return max
   
 
-f = open('2022/Day8/Day8.txt', 'r')
+f = open('2022/Day08/Day8.txt', 'r')
 data = f.read().split('\n')
 
 forest = Forest()

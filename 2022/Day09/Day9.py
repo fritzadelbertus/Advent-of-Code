@@ -68,7 +68,7 @@ rope1 = Rope(rope2, [[0,0]])
 head = Rope(rope1)
 
 
-f = open('2022/Day9/Day9.txt', 'r')
+f = open('2022/Day09/Day9.txt', 'r')
 data = f.read().split('\n')
 
 listOfInstructions = list(map(lambda x: x.split(' '), data))

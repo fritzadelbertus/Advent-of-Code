@@ -1,6 +1,6 @@
 # Advent of Code Day 1: Not Quite Lisp
 
-f = open('2015/Day1/Day1.txt', 'r')
+f = open('2015/Day01/Day1.txt', 'r')
 data = f.read()
 
 # Part 1
